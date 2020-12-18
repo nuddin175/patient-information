@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  height: 95vh;
+  align-items: center;
+}
+
+.patient-info {
+  text-align: left;
+}
