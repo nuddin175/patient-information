@@ -11,3 +11,7 @@ body {
 .patient-info {
   text-align: left;
 }
+
+.condition {
+  margin-left: 25px;
+}
